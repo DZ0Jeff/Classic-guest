@@ -1,0 +1,28 @@
+body {
+    background: url('../images/89454d15.png');
+}
+
+.game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.game-col {
+    margin-bottom: 3rem;
+}
+
+@media(max-width: 760px){
+    iframe {
+        width: 90vw;
+        height: 80vh;
+    }
+}
+
+@media(min-width: 760px){
+    iframe {
+        width: 600px;
+        height: 400px;
+    }
+}
