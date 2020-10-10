@@ -1,0 +1,9 @@
+.games-list {
+    list-style: none;
+    display: flex;
+}
+
+.games-list a {
+    color: white;
+    margin: 1rem;
+}
