@@ -1,5 +1,7 @@
 # project: Classical guest
 
-- [ ] add sign games and users
-- [ ] add effects on list
+- [ ] Add sign games and users
+- [ ] Add effects on list
 - [ ] review emulator
+- [ ] Add search bar
+- [ ] change text

@@ -6,10 +6,12 @@ export default function About(){
         <div className="container text-white">
             <div className="row">
                 <div className="col-12">
-                    <h1>About Us</h1>
-                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique non placeat laudantium dolorem, officiis temporibus, impedit aut neque tempora nam tempore dolor laboriosam nihil obcaecati repellendus quisquam corporis consequuntur vitae. </p>
-                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique non placeat laudantium dolorem, officiis temporibus, impedit aut neque tempora nam tempore dolor laboriosam nihil obcaecati repellendus quisquam corporis consequuntur vitae. </p>
-                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique non placeat laudantium dolorem, officiis temporibus, impedit aut neque tempora nam tempore dolor laboriosam nihil obcaecati repellendus quisquam corporis consequuntur vitae. </p>
+                    <div class="jumbotron bg-dark">
+                        <h1 class="text-center mb-5">About Us</h1>
+                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique non placeat laudantium dolorem, officiis temporibus, impedit aut neque tempora nam tempore dolor laboriosam nihil obcaecati repellendus quisquam corporis consequuntur vitae. </p>
+                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique non placeat laudantium dolorem, officiis temporibus, impedit aut neque tempora nam tempore dolor laboriosam nihil obcaecati repellendus quisquam corporis consequuntur vitae. </p>
+                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique non placeat laudantium dolorem, officiis temporibus, impedit aut neque tempora nam tempore dolor laboriosam nihil obcaecati repellendus quisquam corporis consequuntur vitae. </p>
+                    </div>
                 </div>
             </div>
         </div>
